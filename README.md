@@ -12,4 +12,4 @@ Finally all the methods developed in the project are used to solve a test case f
 
 ### KEYWORDS:
 Generative design, Mass customization, 3D-Layout problem, Participatory design, Multi-Agent systems, Python programming
-<img src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg " width="100" height="100">
+<img src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg " width="500" height="500">
