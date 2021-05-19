@@ -7,4 +7,4 @@ The concept of multi-agent systems is used to solve the zoning problem.The syste
 # Aim
 To assign Zones in a massing model which will achieve the maximum performance value and the necessary closeness requirements as specified by the stakeholder.
 
-![Key Image Massing](https://github.com/adityasoman/GEN-ARCH/blob/main/01.Massing_problem/Massing_Problem_key_Image.jpg)
+![Key Image Massing](https://github.com/adityasoman/GEN-ARCH/blob/main/02.Zoning_problem/Zoning_problem_Key_Image.jpg)
