@@ -6,4 +6,4 @@ The stakeholders involved in this stage of the layout problem are the Architects
 The nature of the problem at this stage will involve background knowledge about a lot of subjects like construction processes, building material properties, fabrication and construction processes etc. This makes the scale of the problem very large and not manageable to solve in the time frame of this thesis, However a possible initial framework for solving this problem is proposed in this thesis.
 
 
-![Key Image Unit Assignment](https://github.com/adityasoman/GEN-ARCH/blob/main/04.Unit_Layout_Problem/Unit_layout_05-05.jpg)
+![Key Image Unit Assignment](https://github.com/adityasoman/GEN-ARCH/blob/main/05.Unit_detailing_problem/Animation/28.jpg)
