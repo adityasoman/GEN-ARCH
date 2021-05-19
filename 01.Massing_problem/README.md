@@ -5,3 +5,4 @@ The problem of finding the appropriate volumetric design of the building is the 
 # Aim
 To generate various massing variants for the site and select a variant which will maximise the site utilization without compromising on the quality of the spaces as defined by the architect.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
