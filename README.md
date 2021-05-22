@@ -17,4 +17,6 @@ Finally all the methods developed in the project are used to solve a test case f
   <img width="300" height="300" src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg">
 </p>
 
-[![IMAGE ALT TEXT HERE](https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg)](https://youtu.be/emaIgen5row)
+[![IMAGE ALT TEXT HERE](<p align="center">
+  <img width="300" height="300" src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg">
+</p>](https://youtu.be/emaIgen5row)
