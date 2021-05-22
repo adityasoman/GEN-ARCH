@@ -17,4 +17,4 @@ Finally all the methods developed in the project are used to solve a test case f
   <img width="300" height="300" src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg">
 </p>
 
-[![Link to Video]({image-url})]({https://www.youtube.com/watch?v=emaIgen5row} "Link Title")
+[![Link to Video]({https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg})]({https://www.youtube.com/watch?v=emaIgen5row} "Link Title")
