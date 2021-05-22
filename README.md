@@ -20,4 +20,4 @@ Finally all the methods developed in the project are used to solve a test case f
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=emaIgen5row
 " target="_blank"><img src="http://img.youtube.com/vi/emaIgen5row/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="900" height="300" border="10" /></a>
