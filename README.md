@@ -18,8 +18,5 @@ Finally all the methods developed in the project are used to solve a test case f
   <img width="300" height="300" src="https://github.com/adityasoman/GEN-ARCH/blob/main/Logo_Transparant-02.jpg">
 </p>
 
-<a href="https://youtu.be/V5nfpPYrtw4
-" target="_blank"><p align="center"><img src="http://img.youtube.com/vi/emaIgen5row/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
 
-[https://youtu.be/V5nfpPYrtw4](url)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V5nfpPYrtw4/0.jpg)](https://www.youtube.com/watch?v=V5nfpPYrtw4)
